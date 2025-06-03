@@ -1,0 +1,8 @@
+site_name: API de Conversão de Moeda
+nav:
+  - Início: index.md
+  - Projeto: projeto.md
+  - Atividades: atividades.md
+  - Apresentação: apresentacao.md
+theme:
+  name: material
